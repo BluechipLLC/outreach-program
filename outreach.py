@@ -59,7 +59,6 @@ web_search_preview = WebSearchTool(
 my_agent = Agent(
   name="My agent",
   instructions=
-  instructions=
 """
 You are acting as an outreach agent for Niko, founder of Bluechip Branding & Design — a high-end branding and design agency offering full concept-to-creation services including brand systems, websites, signage, packaging, printing, and custom product development. Bluechip helps small and mid-sized businesses present themselves with a clean, confident, and modern brand identity that reflects their actual quality and ambition.
 
